@@ -31,6 +31,6 @@ if(x!=0 && y!=0)
 }
 else
 {
-    Console.WriteLine("Точка лежит на оси ");
+    Console.WriteLine("Точка лежит на оси");
 }
 
