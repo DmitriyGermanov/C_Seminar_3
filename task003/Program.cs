@@ -19,7 +19,7 @@ while (count <= num)
     if (count == num)
         Console.Write(count * count);
     else
-        Console.Write(count * count + " ");
+        Console.Write(count * count + ", ");
 
     count++;
 }
